@@ -1,0 +1,12 @@
+{
+  "name": "test-web-dev-server-tsconfig-module-resolution-node16",
+  "type": "module",
+  "scripts": {
+    "test": "wtr"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.36",
+    "@web/dev-server-esbuild": "^0.3.4",
+    "typescript": "^5.0.2"
+  }
+}
